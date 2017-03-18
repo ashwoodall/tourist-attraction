@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Carter+One|Lato:400,700');
+
+body {
+	background-color: #e6d1a0 !important;
+	font-family: 'Lato', sans-serif !important;
+}
+
+h1 {
+	padding-top: 60px;
+	font-family: 'Carter One', cursive !important;
+	text-align: center;
+	font-size: 4.5em !important;
+	color: #003c33;
+}
+
+h2 {
+	font-family: 'Carter One', cursive !important;
+	
+}
+
+nav img {
+	height: 100%;
+	vertical-align: middle !important;
+	float: left;
+	display: inline-block;
+}
+
+footer {
+	text-align: center;
+	padding: 0px 0px 20px 0px;
+}
+
+.navbar {
+	background-color: #004438 !important;
+	height: 60px !important;
+	width: 100% !important;
+	border: none !important;
+}
+
+.nav-link {
+	color: #e6d1a0 !important;
+	font-family: 'Lato', sans-serif;
+	font-size: 1.2em;
+	line-height: 60px;
+	text-align: right;
+	padding: 0 20px;
+	float: right;
+}
+
+.nav-link a {
+	color: #e6d1a0 !important;
+}
+
+.nav-link a:hover{
+	text-decoration: none;
+}
+
+.navbar-brand {
+    padding: 0 !important;
+    margin: 4px !important;
+}
+
+.carousel{
+    background: #000000;
+    background-size: cover;
+    margin-top: 20px;
+}
+.carousel .item img{
+    margin: 0 auto; /* Align slide image horizontally center */
+}
+
+.featurette-divider {
+  margin-right: 100px;
+  margin-left: 100px;
+  border:  0.1em solid #8a7b68;
+}
+
+.featurette {
+	padding: 0 1%;
+}
+
+#welcome {
+	text-align: center;
+	font-family: 'Lato', sans-serif !important;
+	color: #666666 !important;
+}
